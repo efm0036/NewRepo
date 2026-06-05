@@ -1,1 +1,1 @@
-
+print('marty supreme')
